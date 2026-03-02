@@ -18,8 +18,8 @@ infrastructure with long-term interest in data and analytics engineering.
 
 I'm open to collaboration and new opportunities!
 
-Email: serena.elizabeth.lee@gmail.com
-Linkedin: https://www.linkedin.com/in/serena-e-lee/
+- Email: serena.elizabeth.lee@gmail.com
+- Linkedin: https://www.linkedin.com/in/serena-e-lee/
 
 <!---
 unlimitedsushi/unlimitedsushi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
